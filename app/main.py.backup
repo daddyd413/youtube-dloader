@@ -1,0 +1,15 @@
+from fastapi import FastAPI
+from .api.downloads import router as downloads_router
+
+app = FastAPI(title="YouTube Downloader", version="1.0.0")
+
+# Include the downloads router
+app.include_router(downloads_router)
+
+@app.get("/")
+def read_root():
+    return {"message": "YouTube Downloader API is running!", "status": "success"}
+
+@app.get("/health")
+def health_check():
+    return {"status": "healthy"}

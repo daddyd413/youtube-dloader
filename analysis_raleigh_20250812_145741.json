@@ -1,0 +1,64 @@
+{
+  "meeting_info": {
+    "jurisdiction": "Raleigh",
+    "date": "2025-08-12",
+    "type": "Planning Commission",
+    "description": "Middle 10-minute sample analysis test"
+  },
+  "analysis": {
+    "projects": [
+      {
+        "name": "Z1025-8125 Leesville Road",
+        "address": "8125 Leesville Road, Raleigh",
+        "case_number": "Z1025",
+        "developer": "Vibes Fund, LLC",
+        "applicant": "Worth Mills",
+        "project_type": "Residential",
+        "current_status": "Review",
+        "vote_outcome": "No_vote",
+        "vote_details": "Not available",
+        "key_concerns": [
+          "Stormwater management",
+          "Safety concerns",
+          "Disjointed development",
+          "Lack of detailed plans"
+        ],
+        "conditions": [
+          "Prohibiting a number of uses",
+          "Prohibiting the apartment building type",
+          "Increased side yard and rear yard setbacks",
+          "Installation of a six foot wall and tree buffer",
+          "Exemption from block perimeter and dead-end street requirements",
+          "Minimum roof pitch of four and 12",
+          "Capping residential height at 40 feet",
+          "Installation of a speed hump",
+          "Inclusion of at least two materials in future residential development front facades"
+        ],
+        "timeline": "Deadline for action is August 23rd",
+        "opposition": "Eric Hungate, vice president of the HOA for Westlake at Country Trail, expressed concerns about disjointed development, stormwater management, and lack of detailed plans",
+        "staff_recommendation": "Consistent with the comprehensive plan and future land use map",
+        "acreage": "Just under three acres",
+        "previous_action": "Case was deferred to allow the applicant to consider additional conditions"
+      }
+    ],
+    "key_people": [
+      {
+        "name": "Worth Mills",
+        "role": "Applicant",
+        "notable_positions": "Presented updated conditions and a concept plan for the development"
+      },
+      {
+        "name": "Eric Hungate",
+        "role": "Citizen",
+        "notable_positions": "Expressed opposition to the project due to safety concerns, disjointed development, and stormwater management issues"
+      }
+    ],
+    "newsletter_highlights": [
+      "The Z1025-8125 Leesville Road project is under review with a deadline for action set for August 23rd.",
+      "The project has faced opposition from local residents, particularly regarding stormwater management and the potential for disjointed development.",
+      "The applicant has proposed several conditions to address concerns, including increased setbacks, a speed hump, and specific architectural requirements."
+    ]
+  },
+  "transcript_length": 8798,
+  "analyzed_at": "2025-08-12T14:57:41.996797"
+}
